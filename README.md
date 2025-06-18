@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adil Alameen
+# 👋 Hi, I'm Adil A
 
 Welcome to my first GitHub repository!
 
